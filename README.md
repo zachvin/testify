@@ -24,3 +24,9 @@ cd backend
 npm install
 node server.js
 ```
+
+## Screenshots
+
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/25fcae33-85c6-4f47-8a57-799458514c6d" />
+
+Unfortunately, the backend database has been lost to time, which breaks all the protected routes. I will revisit this project and likely reinstate a static database for display purposes.
